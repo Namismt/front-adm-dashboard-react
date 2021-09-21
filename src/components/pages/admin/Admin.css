@@ -1,0 +1,8 @@
+.admin{
+    flex: 6;
+    background-color: rgb(164, 164, 240);
+}
+.adminWidget{
+    display:flex;
+    margin: 20px;
+}
